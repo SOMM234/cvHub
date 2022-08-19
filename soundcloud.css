@@ -1,0 +1,177 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.cloud{
+padding-top: 100px;
+color:white;
+}
+
+.one{
+background-image: url(./public/sofaygo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 500px;
+}
+
+.track{
+    padding-top: 100px;
+
+}
+.pix{
+text-align: center;
+padding-bottom: 200px;
+color: white;
+}
+
+ .btn button {
+
+background: orangered;
+
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+padding-left: 10px;
+border-radius: 5px;
+color: white;
+font-size: medium;
+
+}
+.btn{
+text-align: center;
+border: 100px;
+
+}
+.dat{
+    display: flex;
+flex-direction: row-reverse;
+
+}
+.bac button{
+    background: orangered;
+
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    
+
+}
+.had button{
+    background: black;
+
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    
+
+}
+
+.sido{
+display: flex;
+flex-direction: row;
+color: blue;
+justify-content: space-between;
+}
+
+.vivo{
+    display: flex;
+    flex-direction: row-reverse;
+    column-gap: 10px;
+}
+.vivo button{
+    background:orangered;
+width: max-content;
+height: max-content;
+    color:black;
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    justify-content: space space-around;
+
+
+}
+h3{
+    margin-left: 90px;
+}
+
+.search input{
+    width: 150%;
+    height: 150%;
+} 
+.buttonss button{
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 50px;
+    margin-left: 5px;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+}
+.hello{
+    font-size: xx-large ;
+    text-align: center;
+    padding-bottom: 20px;
+    
+    }
+.none{
+    display: flex;
+    flex-direction: row;
+justify-content: space-evenly;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+justify-content: space-evenly;
+}
+.zero{
+    display: flex;
+    flex-direction: row;
+justify-content: space-evenly;
+}
+.sasa{
+margin-right: 70px;
+
+}
+.das{
+    margin-right: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
